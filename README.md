@@ -7,4 +7,4 @@ The Feature Engineering notebook has a small EDA and creates the necessary featu
 
 The Modelling notebook has the 10 fold cross validation, using LightGBM for a model that predicts whether there's a flash flood event in a time series or not, and also for a model that predicts WHEN a flash flood might occur.
 
-Submission notebook is not included since the challenge has already closed.
+Train and test data are provided, while images have to be downloaded from Zindi's website. Also, the submission notebook is not included since the challenge has already closed.
